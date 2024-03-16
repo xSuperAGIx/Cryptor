@@ -1,1 +1,2 @@
 # Cryptor
+"Crypter" on automatiseeritud kauplejarobot, mis on loodud krüptovaluutaturul tegutsemiseks. Selle eesmärk on jälgida erinevaid krüptoturge, leida ostu- ja müügivõimalusi ning kasutada erinevaid kauplemisstrateegiaid, et teenida kasumit krüptovahetuste vahendusel. Crypter kasutab tehnilist analüüsi, uudiste jälgimist ja muud tüüpi signaale, et teha informeeritud kauplemisotsuseid. Lisaks võib Crypter pakkuda kasutajatele võimalust automatiseerida kauplemist vastavalt nende eelistatud strateegiatele ja riskihaldusele.
