@@ -1,0 +1,23 @@
+Projekti nimega "Crypter" loomiseks võiksid järgida järgmisi samme:
+
+1. **Projekti eesmärgi määratlemine:** Selgita välja, millist funktsionaalsust soovid oma "Crypter" kauplejarobotilt. Kas soovid luua lihtsa jälgimisvahendi või keeruka algoritmilise kauplejaroboti?
+
+2. **Platvormi valik:** Vali sobiv krüptoturgude platvorm, mis võimaldab API-sid kasutada. Näiteks Binance, Coinbase Pro või Kraken.
+
+3. **API dokumentatsiooni uurimine:** Uuri valitud platvormi API dokumentatsiooni, et mõista, milliseid funktsioone ja võimalusi pakutakse.
+
+4. **Kauplemissignaalide määratlemine:** Määratle, millised signaalid või strateegiad su "Crypter" kasutama hakkab. See võib hõlmata tehnilist analüüsi näitajaid, uudiste jälgimist või muud tüüpi signaale.
+
+5. **Programmeerimine:** Kasutades oma valitud programmeerimiskeelt ja platvormi API-sid, loo oma "Crypter" kauplejarobot vastavalt määratletud signaalidele ja strateegiatele.
+
+6. **Testimine:** Testi oma kauplejarobotit erinevates tingimustes ja turutingimustes, et veenduda selle usaldusväärsuses ja tõhususes.
+
+7. **Kasumi teenimisvõimaluste leidmine:** Analüüsi turuolukorda ja otsi võimalusi kasumi teenimiseks, kasutades oma kauplejarobotit. See võib hõlmata arbitraaži, turuvoogude jälgimist või muud tüüpi strateegiaid.
+
+8. **Jälgimine ja optimeerimine:** Jälgige oma kauplejaroboti jõudlust pidevalt ja optimeerige seda vastavalt turu muutustele ja oma eesmärkidele.
+
+9. **Kasutusjuhendi loomine:** Koosta kasutusjuhend või dokumentatsioon, mis selgitab, kuidas "Crypter" töötab ja kuidas seda kasutada.
+
+10. **Kasutuselevõtt:** Tutvusta oma "Crypter" kauplejarobotit kasutajatele ja alusta selle kasutamist reaalsetes kauplemistingimustes.
+
+Oluline on meeles pidada, et krüptoturud võivad olla väga volatiilsed ja kauplejaroboti loomine ei garanteeri alati kasumit. Seetõttu on oluline teha põhjalik uurimistöö ja riskianalüüs enne investeerimisotsuste tegemist. Lisaks võib olla kasulik saada nõu finantsnõustajalt või ekspertidelt krüptokaubanduse valdkonnas.
